@@ -1,2 +1,3 @@
-# Multi-Action
- Multi-Action in HTML, CSS & JavaScript
+# Searchable HTML Tables with JavaScript
+
+Made by Jamesy 2022
